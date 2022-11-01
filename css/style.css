@@ -1,0 +1,124 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.polya {
+  background-color: rgb(14, 85, 13);
+
+  width: 1488px;
+  height: 734px;
+}
+.polya1 {
+  background-color: rgb(18, 97, 17);
+
+  width: 200px;
+  height: 734px;
+
+  position: absolute;
+  top: 0px;
+  left: 200px;
+}
+.polya2 {
+  background-color: rgb(18, 97, 17);
+
+  width: 200px;
+  height: 734px;
+
+  position: absolute;
+  top: 0px;
+  left: 640px;
+}
+.polya3 {
+  background-color: rgb(18, 97, 17);
+
+  width: 200px;
+  height: 734px;
+
+  position: absolute;
+  top: 0px;
+  left: 1100px;
+}
+.ramka {
+  background-color: transparent;
+  border: 5px solid white;
+
+  width: 1440px;
+  height: 680px;
+
+  position: absolute;
+  top: 30px;
+  left: 30px;
+}
+
+.liniya1 {
+  background-color: white;
+
+  position: absolute;
+  top: 30px;
+  left: 730px;
+
+  width: 5px;
+  height: 680px;
+}
+.krug {
+  background-color: transparent;
+  border: 5px solid white;
+
+  position: absolute;
+  top: 170px;
+  left: 530px;
+
+  width: 400px;
+  height: 400px;
+
+  border-bottom-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
+}
+
+.karobka1 {
+  background-color: transparent;
+  border: 5px solid white;
+
+  position: absolute;
+  top: 170px;
+  left: 30px;
+
+  width: 250px;
+  height: 400px;
+}
+.karobka2 {
+  background-color: transparent;
+  border: 5px solid white;
+
+  position: absolute;
+  top: 270px;
+  left: 30px;
+
+  width: 130px;
+  height: 200px;
+}
+.karobka3 {
+  background-color: transparent;
+  border: 5px solid white;
+
+  position: absolute;
+  top: 170px;
+  right: 18px;
+
+  width: 250px;
+  height: 400px;
+}
+.karobka4 {
+  background-color: transparent;
+  border: 5px solid white;
+
+  position: absolute;
+  top: 270px;
+  right: 18px;
+
+  width: 130px;
+  height: 200px;
+}
